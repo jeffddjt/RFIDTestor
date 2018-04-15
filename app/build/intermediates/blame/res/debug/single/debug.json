@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inventory_btn_normal_bg.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-hdpi\\inventory_btn_normal_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep51.wav.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\raw\\beep51.wav"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_read_write.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\fragment_read_write.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_uhf_r.png.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-hdpi\\uhf_r.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\menu_test.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep2.wav.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\raw\\beep2.wav"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inventory.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\fragment_inventory.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inventory_btn_check_bg.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-hdpi\\inventory_btn_check_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lock.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\fragment_lock.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_epc.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\item_epc.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\raw_msg.mp3.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\raw\\msg.mp3"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inventory_btn_bg.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-hdpi\\inventory_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.wav.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\raw\\beep.wav"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_kill.xml.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\layout\\fragment_kill.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UHFr\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\StudioProjects\\UHFr\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

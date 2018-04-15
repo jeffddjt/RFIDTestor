@@ -1,0 +1,262 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* UHFr\
+* UHFr\.classpath
+* UHFr\.project
+* UHFr\.settings\
+* UHFr\.settings\org.eclipse.core.resources.prefs
+* UHFr\.settings\org.eclipse.jdt.core.prefs
+* UHFr\AndroidManifest.xml
+* UHFr\bin\
+* UHFr\bin\AndroidManifest.xml
+* UHFr\bin\UHFr.apk
+* UHFr\bin\classes.dex
+* UHFr\bin\classes\
+* UHFr\bin\classes\cn\
+* UHFr\bin\classes\cn\pda\
+* UHFr\bin\classes\cn\pda\serialport\
+* UHFr\bin\classes\cn\pda\serialport\SerialPort.class
+* UHFr\bin\classes\cn\pda\serialport\Tools.class
+* UHFr\bin\classes\com\
+* UHFr\bin\classes\com\BRMicro\
+* UHFr\bin\classes\com\BRMicro\SerialPort.class
+* UHFr\bin\classes\com\BRMicro\Tools.class
+* UHFr\bin\classes\com\handheld\
+* UHFr\bin\classes\com\handheld\uhfr\
+* UHFr\bin\classes\com\handheld\uhfr\BuildConfig.class
+* UHFr\bin\classes\com\handheld\uhfr\R$array.class
+* UHFr\bin\classes\com\handheld\uhfr\R$attr.class
+* UHFr\bin\classes\com\handheld\uhfr\R$color.class
+* UHFr\bin\classes\com\handheld\uhfr\R$dimen.class
+* UHFr\bin\classes\com\handheld\uhfr\R$drawable.class
+* UHFr\bin\classes\com\handheld\uhfr\R$id.class
+* UHFr\bin\classes\com\handheld\uhfr\R$layout.class
+* UHFr\bin\classes\com\handheld\uhfr\R$menu.class
+* UHFr\bin\classes\com\handheld\uhfr\R$raw.class
+* UHFr\bin\classes\com\handheld\uhfr\R$string.class
+* UHFr\bin\classes\com\handheld\uhfr\R$style.class
+* UHFr\bin\classes\com\handheld\uhfr\R.class
+* UHFr\bin\classes\com\handheld\uhfr\UHFRManager.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\
+* UHFr\bin\classes\com\handheld\uhfrdemo\EPCadapter$ViewHolder.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\EPCadapter.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\EpcDataModel.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment1_Inventory$1.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment1_Inventory$2.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment1_Inventory$MyHandler.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment1_Inventory.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment2_ReadAndWrite$1.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment2_ReadAndWrite$2.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment2_ReadAndWrite.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment3_Lock$1.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment3_Lock$2.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment3_Lock$3.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment3_Lock$4.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment3_Lock.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment4_Kill$1.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment4_Kill$2.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment4_Kill.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment5_Settings$1.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment5_Settings$2.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment5_Settings$3.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Fragment5_Settings.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\MainActivity.class
+* UHFr\bin\classes\com\handheld\uhfrdemo\Util.class
+* UHFr\bin\classes\com\uhf\
+* UHFr\bin\classes\com\uhf\api\
+* UHFr\bin\classes\com\uhf\api\cls\
+* UHFr\bin\classes\com\uhf\api\cls\JniModuleAPI.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$ALIENHiggs3BlockReadLockPara.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$AntLinkVSWR.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$AntPortsVSWR.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$AntPower.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$AntPowerConf.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$ConnAnts_ST.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$CustomCmdType.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$EmbededData_ST.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$EmbededSecureRead_ST.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$HardwareDetails.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$HoptableData_ST.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$IMPINJM4QtPara.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$IMPINJM4QtResult.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Inv_Potl.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Inv_Potls_ST.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Lock_Obj.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Lock_Type.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$MaindBoard_Type.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Module_Type.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Mtr_Param.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$NXPChangeEASPara.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$NXPEASAlarmPara.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$NXPEASAlarmResult.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$READER_ERR.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Reader_Ip.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Reader_Type.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Reader_Ver.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$Region_Conf.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$SL_TagProtocol.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$TAGINFO.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader$TagFilter_ST.class
+* UHFr\bin\classes\com\uhf\api\cls\Reader.class
+* UHFr\bin\classes\com\uhf\scanlable\
+* UHFr\bin\classes\com\uhf\scanlable\UHFLib.class
+* UHFr\bin\classes\com\uhf\scanlable\UHfData$InventoryTagMap.class
+* UHFr\bin\classes\com\uhf\scanlable\UHfData$UHfGetData.class
+* UHFr\bin\classes\com\uhf\scanlable\UHfData.class
+* UHFr\bin\dexedLibs\
+* UHFr\bin\dexedLibs\android-support-v4-066bdd88d2ecc946bd7687e8f3e4ee9e.jar
+* UHFr\bin\dexedLibs\android-support-v4-2e35505f4113696365ae1b56886cb206.jar
+* UHFr\bin\jarlist.cache
+* UHFr\bin\res\
+* UHFr\bin\res\crunch\
+* UHFr\bin\res\crunch\drawable-hdpi\
+* UHFr\bin\res\crunch\drawable-hdpi\ic_launcher.png
+* UHFr\bin\res\crunch\drawable-hdpi\uhf_r.png
+* UHFr\bin\res\crunch\drawable-mdpi\
+* UHFr\bin\res\crunch\drawable-mdpi\ic_launcher.png
+* UHFr\bin\res\crunch\drawable-xhdpi\
+* UHFr\bin\res\crunch\drawable-xhdpi\ic_launcher.png
+* UHFr\bin\res\crunch\drawable-xxhdpi\
+* UHFr\bin\res\crunch\drawable-xxhdpi\ic_launcher.png
+* UHFr\bin\resources.ap_
+* UHFr\gen\
+* UHFr\gen\com\
+* UHFr\gen\com\handheld\
+* UHFr\gen\com\handheld\uhfr\
+* UHFr\gen\com\handheld\uhfr\BuildConfig.java
+* UHFr\gen\com\handheld\uhfr\R.java
+* UHFr\ic_launcher-web.png
+* UHFr\libs\
+* UHFr\libs\android-support-v4.jar
+* UHFr\libs\armeabi\
+* UHFr\libs\armeabi\libModuleAPI_Android.so
+* UHFr\libs\armeabi\libSerialPort.so
+* UHFr\libs\armeabi\libUHFR2000.so
+* UHFr\libs\armeabi\libdevapi.so
+* UHFr\proguard-project.txt
+* UHFr\project.properties
+* UHFr\res\
+* UHFr\res\drawable-hdpi\
+* UHFr\res\drawable-hdpi\ic_launcher.png
+* UHFr\res\drawable-hdpi\inventory_btn_bg.xml
+* UHFr\res\drawable-hdpi\inventory_btn_check_bg.xml
+* UHFr\res\drawable-hdpi\inventory_btn_normal_bg.xml
+* UHFr\res\drawable-hdpi\uhf_r.png
+* UHFr\res\drawable-mdpi\
+* UHFr\res\drawable-mdpi\ic_launcher.png
+* UHFr\res\drawable-xhdpi\
+* UHFr\res\drawable-xhdpi\ic_launcher.png
+* UHFr\res\drawable-xxhdpi\
+* UHFr\res\drawable-xxhdpi\ic_launcher.png
+* UHFr\res\layout\
+* UHFr\res\layout\activity_main.xml
+* UHFr\res\layout\fragment_inventory.xml
+* UHFr\res\layout\fragment_kill.xml
+* UHFr\res\layout\fragment_lock.xml
+* UHFr\res\layout\fragment_read_write.xml
+* UHFr\res\layout\fragment_settings.xml
+* UHFr\res\layout\item_epc.xml
+* UHFr\res\menu\
+* UHFr\res\menu\main.xml
+* UHFr\res\raw\
+* UHFr\res\raw\beep.wav
+* UHFr\res\raw\beep2.wav
+* UHFr\res\raw\beep51.wav
+* UHFr\res\raw\msg.mp3
+* UHFr\res\values-v11\
+* UHFr\res\values-v11\styles.xml
+* UHFr\res\values-v14\
+* UHFr\res\values-v14\styles.xml
+* UHFr\res\values-w820dp\
+* UHFr\res\values-w820dp\dimens.xml
+* UHFr\res\values-zh-rCN\
+* UHFr\res\values-zh-rCN\arrays.xml
+* UHFr\res\values-zh-rCN\strings.xml
+* UHFr\res\values\
+* UHFr\res\values\arrays.xml
+* UHFr\res\values\colors.xml
+* UHFr\res\values\dimens.xml
+* UHFr\res\values\strings.xml
+* UHFr\res\values\styles.xml
+* UHFr\src\
+* UHFr\src\cn\
+* UHFr\src\cn\pda\
+* UHFr\src\cn\pda\serialport\
+* UHFr\src\cn\pda\serialport\SerialPort.java
+* UHFr\src\cn\pda\serialport\Tools.java
+* UHFr\src\com\
+* UHFr\src\com\BRMicro\
+* UHFr\src\com\BRMicro\SerialPort.java
+* UHFr\src\com\BRMicro\Tools.java
+* UHFr\src\com\handheld\
+* UHFr\src\com\handheld\uhfr\
+* UHFr\src\com\handheld\uhfr\UHFRManager.java
+* UHFr\src\com\handheld\uhfrdemo\
+* UHFr\src\com\handheld\uhfrdemo\EPCadapter.java
+* UHFr\src\com\handheld\uhfrdemo\EpcDataModel.java
+* UHFr\src\com\handheld\uhfrdemo\Fragment1_Inventory.java
+* UHFr\src\com\handheld\uhfrdemo\Fragment2_ReadAndWrite.java
+* UHFr\src\com\handheld\uhfrdemo\Fragment3_Lock.java
+* UHFr\src\com\handheld\uhfrdemo\Fragment4_Kill.java
+* UHFr\src\com\handheld\uhfrdemo\Fragment5_Settings.java
+* UHFr\src\com\handheld\uhfrdemo\MainActivity.java
+* UHFr\src\com\handheld\uhfrdemo\Util.java
+* UHFr\src\com\uhf\
+* UHFr\src\com\uhf\api\
+* UHFr\src\com\uhf\api\cls\
+* UHFr\src\com\uhf\api\cls\JniModuleAPI.java
+* UHFr\src\com\uhf\api\cls\Reader.java
+* UHFr\src\com\uhf\scanlable\
+* UHFr\src\com\uhf\scanlable\UHFLib.java
+* UHFr\src\com\uhf\scanlable\UHfData.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* libs\armeabi\libdevapi.so => app\src\main\jniLibs\armeabi\libdevapi.so
+* libs\armeabi\libModuleAPI_Android.so => app\src\main\jniLibs\armeabi\libModuleAPI_Android.so
+* libs\armeabi\libSerialPort.so => app\src\main\jniLibs\armeabi\libSerialPort.so
+* libs\armeabi\libUHFR2000.so => app\src\main\jniLibs\armeabi\libUHFR2000.so
+* libs\uhf-r-integration.jar => app\libs\uhf-r-integration.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
